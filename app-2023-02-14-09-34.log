@@ -1,0 +1,8 @@
+2023-02-14 09:34:18,797 FATAL c.p.HelloJava {Transaction id:=1245588224} [main] Fatal Level event !! 
+2023-02-14 09:34:18,815 ERROR c.p.HelloJava {Transaction id:=1245588224} [main] Error Level event !! 
+2023-02-14 09:34:18,816 WARN c.p.HelloJava {Transaction id:=1245588224} [main] warn Level event !! 
+2023-02-14 09:34:18,817 INFO c.p.HelloJava {Transaction id:=1245588224} [main] Info Level event !! 
+2023-02-14 09:34:18,818 DEBUG c.p.HelloJava {Transaction id:=1245588224} [main] Debug Level event !! 
+2023-02-14 09:34:18,821 TRACE c.p.HelloJava {Transaction id:=1245588224} [main] Trace Level event !! 
+2023-02-14 09:34:18,821 INFO c.p.HelloJava {Transaction id:=1245588224} [main] addition method is started...
+2023-02-14 09:34:18,828 INFO c.p.HelloJava {Transaction id:=1245588224} [main] result is80
